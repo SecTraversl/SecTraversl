@@ -1,4 +1,4 @@
-![](https://github.com/SecTraversl/SecTraversl/blob/main/IT_Toolbox.png)
+![](https://github.com/SecTraversl/SecTraversl/blob/main/IT_Toolbox%20-%20Red%20Letter.png)
 ### Welcome to my IT Toolbox 👋
 
 - 🔭 **I’m currently working on** ... creating tools to automate security operations.
